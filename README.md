@@ -1,6 +1,6 @@
 # CPUSTRESS
 
-This is the Github counterpart to https://cloud.docker.com/u/patricktcb/repository/docker/patricktcb/cpustress
+This is the Github counterpart to https://hub.docker.com/r/patricktcb/cpustress
 
 I use this container as part of my demonstrations of how Docker resource limits work.
 
